@@ -1,0 +1,16 @@
+#################
+INFORMATION TOOL
+#################
+
+#COMMAND*
+
+set payload - for crate payload dumper Android one network
+set sql - for xploitation site with exploit in tools
+set crack - for open module cracking in the sute {facebook, instagram, wordpress, blogspot}
+set panel - for open module scanning admin panel
+set brute - for open moduel cracking random user facebook
+set dos - for open module DDOS server
+report -p - for report all probrems in tool
+info - for view all command in here
+
+#Coded By Si7
