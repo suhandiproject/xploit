@@ -132,7 +132,7 @@ def mulai():
 		print '\033[1;31;99mCRITICAL \033[1;0;99m: Lisensi not found!'
 		rm = raw_input('Do you want to buy LICENSE in admin? (y/n) ')
 		if rm == 'y':
-			os.system('xdg-open https://wa.me/081223617054?Auto_send&text=%20Hello%20Admin%20I%20Will%20Buy%20LICENSE')
+			os.system('xdg-open https://wa.me/+6281223617054?Auto_send&text=%20Hello%20Admin%20I%20Will%20Buy%20LICENSE')
 		else:
 			if rm == 'n':
 				tt = raw_input('LICENSE : ')
